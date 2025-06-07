@@ -26,16 +26,16 @@
             "machineURL": "SkyrimAfterDark",
             "discordURL": "https://discord.gg/HQmg9nSJ4R",
             "websiteURL": "https://github.com/Neogreen224/Skyrim-After-Dark/blob/main/README.md"
-        },
+        }, 
         "download_metadata": {
-            "Hash": "VY6diejFjlI=",
-            "Size": 111444780,
-            "NumberOfArchives": 1573,
-            "SizeOfArchives": 146194812158,
-            "NumberOfInstalledFiles": 118472,
-            "SizeOfInstalledFiles": 202262266350,
-            "TotalSize": 348457078508
+            "Hash": "GwQdLP75K64=",
+            "Size": 219194307,
+            "NumberOfArchives": 2068,
+            "SizeOfArchives": 170151996697,
+            "NumberOfInstalledFiles": 288235,
+            "SizeOfInstalledFiles": 271709232526,
+            "TotalSize": 441861229223
         },
-        "version": "2.0.0"
+        "version": "2.2.0"
     }
 ]
